@@ -35,21 +35,5 @@ A 2D game based on Chrome Dinosaur Game / T-rex game built using HTML, CSS & JS 
 - [ ] Difficulty Level
 
 
-## Youtube
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=2dd6Vv_Sjyw
-" target="_blank"><img src="http://img.youtube.com/vi/2dd6Vv_Sjyw/0.jpg" 
- width="240" height="180" border="10" /></a>
-
-![YouTube Video Views](https://img.shields.io/youtube/views/2dd6Vv_Sjyw?style=plastic)
-![YouTube Video Votes](https://img.shields.io/youtube/likes/2dd6Vv_Sjyw?style=social&withDislikes)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/2dd6Vv_Sjyw?style=social)
-
-
-### Installing
-
-```
-Run index.html on browser (eg. Chrome)
-```
-![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
 
