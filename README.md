@@ -3,7 +3,7 @@
 
 
 
-# ChromeDinoGame     <img src="https://emojis.slackmojis.com/emojis/images/1499416488/2597/trex.gif?1499416488"  width="35" height="35" />
+# ChromeDragonGame     <img src="https://emojis.slackmojis.com/emojis/images/1499416488/2597/trex.gif?1499416488"  width="35" height="35" />
 
 A 2D game based on Chrome Dinosaur Game / T-rex game built using HTML, CSS & JS in which T-rex has to jump over incoming obstacles ang gain points based on survival
 
@@ -21,7 +21,7 @@ A 2D game based on Chrome Dinosaur Game / T-rex game built using HTML, CSS & JS 
 ![Demonstartion Video](https://j.gifs.com/lx1Onr.gif)
 
 
-## Demo Link :point_right: [https://amoldalwai.github.io/Chrome_Dino_Game/](https://amoldalwai.github.io/Chrome_Dino_Game/)
+## Demo Link :point_right:  https://amnakhan1323.github.io/ChromeDragonGame/
 
 
 
